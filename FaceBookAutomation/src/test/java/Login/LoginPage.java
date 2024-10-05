@@ -25,6 +25,8 @@ public class LoginPage {
         // You can add assertions here to validate the page title or other elements if needed
         System.out.println("Opened Facebook: " + driver.getTitle());
         System.out.println("usha");
+        System.out.println("Pramod");
+        System.out.println("Nischay");
        
         
     }
